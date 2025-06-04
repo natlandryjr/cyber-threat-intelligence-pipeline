@@ -36,5 +36,5 @@ This project demonstrates how to ingest, clean, enrich, and analyze publicly ava
 **Nathaniel Landry Jr.**  
 DoD TS/SCI | PMP | Data Engineer & Scrum Master  
 📧 natlandryent@yahoo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/natlandryjr) *(optional)*
+🔗 [LinkedIn](https://www.linkedin.com/in/natlandry)
 
